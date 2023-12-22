@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭　I am currently developing a game engine in the following repositorys
+- 🔭　I am currently developing the following two repositories (homebrew game engine, game using unity)
 
 https://github.com/heller77/Yougine
 
